@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "test",
+      "id": 1
+    },
+    {
+      "email": "de",
+      "password": "sz",
+      "id": 2
+    },
+    {
+      "email": "kevin.ruault@livecampus.tech",
+      "password": "de",
+      "id": 3
+    },
+    {
+      "email": "dedededede",
+      "password": "eeeeeeee",
+      "id": 4
+    },
+    {
+      "email": "kevin.ruault@livecampus.tech",
+      "password": "aa",
+      "id": 5
+    },
+    {
+      "email": "dzedez",
+      "password": "ez",
+      "id": 6
+    },
+    {
+      "email": "aaaaaaaaaaa",
+      "password": "aaaaaaaaaa",
+      "id": 7
+    },
+    {
+      "email": "aaaazzzz",
+      "password": "zazaza",
+      "id": 8
+    },
+    {
+      "name": "trtrtr",
+      "email": "trtrtrt",
+      "password": "trtrtrt",
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 10
+    },
+    {
+      "name": "uu",
+      "email": "uuu",
+      "password": "uuu",
+      "id": 11
+    },
+    {
+      "name": "iii",
+      "email": "iii",
+      "password": "iii",
+      "id": 12
+    }
+  ]
+}
